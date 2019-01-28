@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
+<link rel="stylesheet" type="text/css" href="style.css">
+<body ng-app="myApp" ng-controller="myCtrl">
+
+	<input type="button" class="cart-button button" style="float: right;" value="cart"/>
+	<ul class="cart">
+		
+		<li class="item-in-cart" ng-repeat="item in cart">
+			<img ng-src="{{item.url}}" />
+			Item:{{ item.product }}, qty: {{ item.qty }} <br />price:{{ item.price*item.qty | currency: "\u20B9 " }}<span class="remove" ng-click="removeFromCart(item)">X</span>
+		</li> 
+		<li class="item-in-cart">
+			<label for="total">Total: </label>
+			<textfield id="total">{{ total | currency: "\u20B9 "}}</textfield>
+			<input type="button" class="button" style="" value="Buy Now" />
+		</li>
+	</ul>
+	<ul class="selection" >
+		<li class="item" ng-repeat="name in names">
+			<img ng-src="{{name.url}}" />
+			{{ name.product }} {{ name.price | currency: "\u20B9 "}}<input type="number" name="qty" ng-model="name.qty" class="num_input"/><input type="button" class="add-button button" value="add to cart" ng-click="addToCart(name)"/>
+		</li>
+	</ul>
+	<ul class="selection">
+		<li class="item" ng-repeat="name in myData">
+			<img ng-src="{{name.item.url}}" />
+			{{ name.item.product }} {{ name.item.price | currency: "\u20B9 "}}<input type="number" name="qty" ng-model="name.item.qty" class="num_input"/><input type="button" class="cart-button button" value="add to cart" ng-click="addToCart(name.item)"/>
+		</li>
+	</ul>
+	
+	<script src="itemsController.js"></script>
+	
+</body>
+<script>
+	$(document).ready(() => {
+  		$('.cart-button').on('click',()=>{
+   			//$('.cart').slideToggle()
+    			$( ".cart" ).animate({
+				    opacity: 1,
+				    
+				    width: "toggle"
+				  }, 1000, function() {
+				    // Animation complete.
+				  });
+  		});
+  		$('.add-button').on('click',()=>{
+   			//$('.cart').slideToggle()
+    			$( ".cart" ).animate({
+				    opacity: 1,
+				    
+				    width: "show"
+				  }, 1000, function() {
+				    // Animation complete.
+				  });
+  		});
+
+	});
+</script>
+</html>

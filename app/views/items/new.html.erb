@@ -1,0 +1,21 @@
+<% form_for(@item) do |f|%>
+	<p>
+		<%= f.label :name %>
+		<%= f.text_field :name %>
+	</p>
+	<p>
+		<%= f.label :price %>
+		<%= f.text_field :price %>
+	</p>
+	<p>
+		<%= f.label :qty %>
+		<%= f.text_field :qty %>
+	</p>
+	<p>
+		<%= f.label :url %>
+		<%= f.text_field :url %>
+	</p>
+	<p>
+		<%= f.submit %>
+	</p>
+<% end %>
