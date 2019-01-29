@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="sideNav.css">
+</head>
+<body ng-app="myApp" ng-controller="myCtrl">
+
+<div id="mySidepanel" class="sidepanel">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  
+</div>
+
+<button class="openbtn" onclick="openNav()">Cart</button>  
+<h2>Collapsed Sidepanel</h2>
+<p>Click on the cart button to open the sidepanel.</p>
+
+
+
+<script>
+  function openNav() {
+    document.getElementById("mySidepanel").style.width = "500px";
+  }
+
+  function closeNav() {
+    document.getElementById("mySidepanel").style.width = "0";
+  }
+  $(document).click(function(e) {
+  	if (!$(e.target).is('.sidepanel,.sidepanel *, .openbtn')) {
+      	closeNav() 
+      }
+  });
+</script>
+   
+</body>
+</html> 

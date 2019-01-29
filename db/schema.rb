@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20190128114716) do
+ActiveRecord::Schema.define(:version => 20190129055922) do
 
   create_table "items", :force => true do |t|
     t.string   "name"
@@ -18,6 +18,7 @@ ActiveRecord::Schema.define(:version => 20190128114716) do
     t.integer  "price"
     t.integer  "qty"
     t.string   "url"
+    t.boolean  "inCart",     :default => false
   end
 
 end

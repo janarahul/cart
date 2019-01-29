@@ -19,13 +19,18 @@ app.controller("myCtrl", function($scope, $http, $location){
   	
 	$scope.cart = [];
 	$scope.total = 0;
+	$scope.addToCart2 = function(name){
+		alert(JSON.stringify(name));
+		name.item.inCart = true;
+		alert(JSON.stringify(name));
+		$http.delete("http://localhost:3000/items/22");
+	};
 	$scope.addToCart = function(name) {
 		//alert(name.product+" "+name.qty+" "+name.price);
 		//alert(JSON.stringify(name));
-		/*name.controller= 'items';
-		name.action = 'update';
-		alert(JSON.stringify(name));
-		$http.put("http://localhost:3000/items/"+name.id, $scope.myData.find(name.id));*/
+		//name.controller= 'items';
+		//name.action = 'update';
+		
 		//alert($scope.cart2);
 		if($scope.cart.indexOf(name) == -1){
 			//alert(name);
@@ -47,7 +52,7 @@ app.controller("myCtrl", function($scope, $http, $location){
 		$http.delete("http://localhost:3000/items/"+name.id+"");
 	};
 	$scope.addItem = function(){
-		var data = {"item":{"qty":1,"inCart":true,"price":10001,"name":"Item4","url":"moto.jpeg"}}
+		var data = {"item":{"qty":1,"inCart":true,"price":10001,"name":"Item10","url":"moto.jpeg"}}
 		$http.post("http://localhost:3000/items", JSON.stringify(data));
 	};
 

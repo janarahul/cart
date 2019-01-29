@@ -1141,3 +1141,2846 @@ Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
 Processing ItemsController#index (for 127.0.0.1 at 2019-01-28 18:26:39) [GET]
   [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
 Completed in 9ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 10:13:19) [GET]
+  [4;36;1mItem Load (0.7ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 16ms (View: 11, DB: 1) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 10:13:43) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 10ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#new (for 127.0.0.1 at 2019-01-29 10:17:42) [GET]
+Rendering items/new
+Completed in 16ms (View: 12, DB: 0) | 200 OK [http://localhost/items/new]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 10:46:23) [GET]
+  [4;36;1mItem Load (0.5ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 10:54:35) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 10:55:43) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 12ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 10:56:06) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 10:56:39) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 10:57:04) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:03:02) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:05:44) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 14ms (View: 11, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:06:09) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:07:39) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 10ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:09:22) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:11:12) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:11:40) [GET]
+  [4;36;1mItem Load (0.6ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 3, DB: 1) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:12:33) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:13:44) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:14:21) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreateItems (20190128102753)
+Migrating to AddPriceToItem (20190128111423)
+Migrating to AddQtyAndUrlToItem (20190128114716)
+Migrating to AddCartStatusToItem (20190129054848)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.7ms)[0m   [0mALTER TABLE "items" ADD "inCart" boolean[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mINSERT INTO schema_migrations (version) VALUES ('20190129054848')[0m
+  [4;35;1mSQL (0.2ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSELECT version FROM schema_migrations[0m
+  [4;35;1mSQL (0.1ms)[0m   [0m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mPRAGMA index_list("items")[0m
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:24:52) [GET]
+  [4;36;1mItem Load (0.5ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 12ms (View: 8, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#new (for 127.0.0.1 at 2019-01-29 11:25:00) [GET]
+Rendering items/new
+Completed in 16ms (View: 12, DB: 0) | 200 OK [http://localhost/items/new]
+
+
+Processing ItemsController#create (for 127.0.0.1 at 2019-01-29 11:25:20) [POST]
+  Parameters: {"item"=>{"inCart"=>"", "price"=>"15000", "url"=>"laptop.jpeg", "qty"=>"1", "name"=>"Item4"}, "inCart"=>"false", "authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "commit"=>"Save changes"}
+  [4;35;1mItem Create (0.3ms)[0m   [0mINSERT INTO "items" ("created_at", "price", "inCart", "url", "updated_at", "name", "qty") VALUES('2019-01-29 05:55:20', 15000, NULL, 'laptop.jpeg', '2019-01-29 05:55:20', 'Item4', 1)[0m
+Redirected to http://localhost:3000/items
+Completed in 12ms (DB: 0) | 302 Found [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:25:20) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#new (for 127.0.0.1 at 2019-01-29 11:26:03) [GET]
+Rendering items/new
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://localhost/items/new]
+
+
+Processing ItemsController#new (for 127.0.0.1 at 2019-01-29 11:27:07) [GET]
+Rendering items/new
+
+ActionView::TemplateError (undefined method `merge' for "false":String) on line #18 of app/views/items/new.html.erb:
+15: 		<%= f.label :url %>
+16: 		<%= f.text_field :url %>
+17: 	</p>
+18: 	<%= f.hidden_field :inCart, 'false' %>
+19:     
+20: 	<p>
+21: 		<%= f.submit %>
+
+    app/views/items/new.html.erb:18
+    app/views/items/new.html.erb:1
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (39.5ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT version FROM schema_migrations[0m
+Migrating to CreateItems (20190128102753)
+Migrating to AddPriceToItem (20190128111423)
+Migrating to AddQtyAndUrlToItem (20190128114716)
+Migrating to AddCartStatusToItem (20190129054848)
+Migrating to AddDefaultValueToinCartfieldInItem (20190129055922)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mselect sqlite_version(*)[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mCREATE TEMPORARY TABLE "altered_items" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "created_at" datetime, "updated_at" datetime, "price" integer, "qty" integer, "url" varchar(255), "inCart" boolean) [0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mPRAGMA index_list("items")[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mDROP TABLE "items"[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mCREATE TABLE "items" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar(255), "created_at" datetime, "updated_at" datetime, "price" integer, "qty" integer, "url" varchar(255), "inCart" boolean DEFAULT 'f') [0m
+  [4;35;1mSQL (0.0ms)[0m   [0mPRAGMA index_list("altered_items")[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mDROP TABLE "altered_items"[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mINSERT INTO schema_migrations (version) VALUES ('20190129055922')[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mPRAGMA index_list("items")[0m
+
+
+Processing ItemsController#new (for 127.0.0.1 at 2019-01-29 11:30:35) [GET]
+Rendering items/new
+ERROR: compiling _run_erb_app47views47items47new46html46erb RAISED compile error
+/home/infibea/TrainingCode/cart/app/views/items/new.html.erb:18: syntax error, unexpected ')'
+...t(( f.hidden_field :inCart,  ).to_s); @output_buffer.concat ...
+                              ^
+Function body:           def _run_erb_app47views47items47new46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ;  form_for(@item) do |f|; @output_buffer.concat "\n\t<p>\n\t\t"
+
+; @output_buffer.concat(( f.label :name ).to_s); @output_buffer.concat "\n\t\t"
+; @output_buffer.concat(( f.text_field :name ).to_s); @output_buffer.concat "\n\t</p>\n\t<p>\n\t\t"
+
+
+; @output_buffer.concat(( f.label :price ).to_s); @output_buffer.concat "\n\t\t"
+; @output_buffer.concat(( f.text_field :price ).to_s); @output_buffer.concat "\n\t</p>\n\t<p>\n\t\t"
+
+
+; @output_buffer.concat(( f.label :qty ).to_s); @output_buffer.concat "\n\t\t"
+; @output_buffer.concat(( f.text_field :qty ).to_s); @output_buffer.concat "\n\t</p>\n\t<p>\n\t\t"
+
+
+; @output_buffer.concat(( f.label :url ).to_s); @output_buffer.concat "\n\t\t"
+; @output_buffer.concat(( f.text_field :url ).to_s); @output_buffer.concat "\n\t</p>\n\t"
+
+; @output_buffer.concat(( f.hidden_field :inCart,  ).to_s); @output_buffer.concat "\n    \n\t<p>\n\t\t"
+
+
+; @output_buffer.concat(( f.submit ).to_s); @output_buffer.concat "\n\t</p>\n"
+
+;  end ; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /home/infibea/TrainingCode/cart/app/views/items/new.html.erb:26:in `compile!'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_view/renderable.rb:61:in `compile'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_view/renderable.rb:28:in `render'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_view/template.rb:205:in `render_template'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_view/base.rb:265:in `render'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/base.rb:1250:in `render_for_file'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/base.rb:936:in `render_without_benchmark'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/benchmarking.rb:51:in `render'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/activesupport-2.3.8/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/activesupport-2.3.8/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/benchmarking.rb:51:in `render'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/base.rb:1326:in `default_render'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/filters.rb:617:in `call_filters'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/activesupport-2.3.8/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/activesupport-2.3.8/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/flash.rb:151:in `perform_action'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/base.rb:532:in `send'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/base.rb:532:in `process_without_filters'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/filters.rb:606:in `process'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/base.rb:391:in `process'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/base.rb:386:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/routing/route_set.rb:438:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:121:in `_call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:29:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:29:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:9:in `cache'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:28:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/string_coercion.rb:25:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rack-1.1.6/lib/rack/head.rb:9:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rack-1.1.6/lib/rack/methodoverride.rb:24:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/params_parser.rb:15:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/session/cookie_store.rb:99:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/failsafe.rb:26:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rack-1.1.6/lib/rack/lock.rb:11:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rack-1.1.6/lib/rack/lock.rb:11:in `synchronize'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rack-1.1.6/lib/rack/lock.rb:11:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:114:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/reloader.rb:34:in `run'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:108:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rails-2.3.8/lib/rails/rack/static.rb:31:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rack-1.1.6/lib/rack/urlmap.rb:47:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rack-1.1.6/lib/rack/urlmap.rb:41:in `each'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rack-1.1.6/lib/rack/urlmap.rb:41:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rails-2.3.8/lib/rails/rack/log_tailer.rb:17:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rack-1.1.6/lib/rack/content_length.rb:13:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rack-1.1.6/lib/rack/handler/webrick.rb:48:in `service'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rack-1.1.6/lib/rack/handler/webrick.rb:14:in `run'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rails-2.3.8/lib/commands/server.rb:111
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:29:in `gem_original_require'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:29:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/home/infibea/TrainingCode/cart/app/views/items/new.html.erb:18: syntax error, unexpected ')'
+...t(( f.hidden_field :inCart,  ).to_s); @output_buffer.concat ...
+                              ^) on line #18 of app/views/items/new.html.erb:
+15: 		<%= f.label :url %>
+16: 		<%= f.text_field :url %>
+17: 	</p>
+18: 	<%= f.hidden_field :inCart,  %>
+19:     
+20: 	<p>
+21: 		<%= f.submit %>
+
+    app/views/items/new.html.erb:26:in `compile!'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (34.1ms)
+Rendered rescues/_request_and_response (1.1ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemsController#new (for 127.0.0.1 at 2019-01-29 11:30:51) [GET]
+Rendering items/new
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://localhost/items/new]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:30:57) [GET]
+  [4;36;1mItem Load (0.9ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 10ms (View: 6, DB: 1) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#new (for 127.0.0.1 at 2019-01-29 11:31:07) [GET]
+Rendering items/new
+Completed in 12ms (View: 7, DB: 0) | 200 OK [http://localhost/items/new]
+
+
+Processing ItemsController#create (for 127.0.0.1 at 2019-01-29 11:31:30) [POST]
+  Parameters: {"commit"=>"Save changes", "authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "item"=>{"name"=>"Item10", "url"=>"moto.jpeg", "qty"=>"1", "price"=>"16000"}}
+  [4;35;1mItem Create (0.3ms)[0m   [0mINSERT INTO "items" ("created_at", "name", "updated_at", "url", "inCart", "qty", "price") VALUES('2019-01-29 06:01:30', 'Item10', '2019-01-29 06:01:30', 'moto.jpeg', 'f', 1, 16000)[0m
+Redirected to http://localhost:3000/items
+Completed in 12ms (DB: 0) | 302 Found [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:31:30) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+  [4;36;1mItem Delete all (5.8ms)[0m   [0;1mDELETE FROM "items" WHERE 1=1[0m
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:32:03) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#new (for 127.0.0.1 at 2019-01-29 11:32:05) [GET]
+Rendering items/new
+Completed in 13ms (View: 9, DB: 0) | 200 OK [http://localhost/items/new]
+
+
+Processing ItemsController#create (for 127.0.0.1 at 2019-01-29 11:32:18) [POST]
+  Parameters: {"authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "item"=>{"url"=>"moto.jpeg", "price"=>"10000", "qty"=>"1", "name"=>"Item1"}, "commit"=>"Save changes"}
+  [4;35;1mItem Create (0.3ms)[0m   [0mINSERT INTO "items" ("created_at", "url", "inCart", "price", "updated_at", "qty", "name") VALUES('2019-01-29 06:02:18', 'moto.jpeg', 'f', 10000, '2019-01-29 06:02:18', 1, 'Item1')[0m
+Redirected to http://localhost:3000/items
+Completed in 13ms (DB: 0) | 302 Found [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:32:18) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 10ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#new (for 127.0.0.1 at 2019-01-29 11:32:21) [GET]
+Rendering items/new
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://localhost/items/new]
+
+
+Processing ItemsController#create (for 127.0.0.1 at 2019-01-29 11:32:36) [POST]
+  Parameters: {"authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "item"=>{"url"=>"laptop.jpeg", "price"=>"25000", "qty"=>"1", "name"=>"Item2"}, "commit"=>"Save changes"}
+  [4;35;1mItem Create (0.2ms)[0m   [0mINSERT INTO "items" ("created_at", "url", "inCart", "price", "updated_at", "qty", "name") VALUES('2019-01-29 06:02:36', 'laptop.jpeg', 'f', 25000, '2019-01-29 06:02:36', 1, 'Item2')[0m
+Redirected to http://localhost:3000/items
+Completed in 11ms (DB: 0) | 302 Found [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:32:36) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#new (for 127.0.0.1 at 2019-01-29 11:32:41) [GET]
+Rendering items/new
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://localhost/items/new]
+
+
+Processing ItemsController#create (for 127.0.0.1 at 2019-01-29 11:33:08) [POST]
+  Parameters: {"authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "item"=>{"url"=>"laptop.jpeg", "price"=>"20000", "qty"=>"1", "name"=>"Item3"}, "commit"=>"Save changes"}
+  [4;35;1mItem Create (0.5ms)[0m   [0mINSERT INTO "items" ("created_at", "url", "inCart", "price", "updated_at", "qty", "name") VALUES('2019-01-29 06:03:08', 'laptop.jpeg', 'f', 20000, '2019-01-29 06:03:08', 1, 'Item3')[0m
+Redirected to http://localhost:3000/items
+Completed in 13ms (DB: 0) | 302 Found [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:33:08) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:33:13) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:34:40) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:35:15) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 53ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:36:55) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:37:12) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#show (for 127.0.0.1 at 2019-01-29 11:46:06) [GET]
+  Parameters: {"id"=>"10"}
+
+ActionController::UnknownAction (No action responded to show. Actions: create, edit, index, new, set_access, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#edit (for 127.0.0.1 at 2019-01-29 11:46:10) [GET]
+  Parameters: {"id"=>"10"}
+
+NameError (uninitialized constant ItemsController::Article):
+  app/controllers/items_controller.rb:19:in `edit'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (29.2ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemsController#edit (for 127.0.0.1 at 2019-01-29 11:47:03) [GET]
+  Parameters: {"id"=>"10"}
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Rendering items/edit
+Completed in 43ms (View: 9, DB: 0) | 200 OK [http://localhost/items/10/edit]
+
+
+Processing ItemsController#edit (for 127.0.0.1 at 2019-01-29 11:47:47) [GET]
+  Parameters: {"id"=>"10"}
+  [4;35;1mItem Load (0.1ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Rendering items/edit
+Completed in 13ms (View: 9, DB: 0) | 200 OK [http://localhost/items/10/edit]
+
+
+Processing ItemsController#update (for 127.0.0.1 at 2019-01-29 11:47:51) [PUT]
+  Parameters: {"id"=>"10", "authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "commit"=>"Save changes", "item"=>{"qty"=>"1", "inCart"=>"1", "price"=>"10000", "name"=>"Item1", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Redirected to http://localhost:3000/items
+Completed in 6ms (DB: 0) | 302 Found [http://localhost/items/10]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:47:51) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:48:43) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#edit (for 127.0.0.1 at 2019-01-29 11:48:48) [GET]
+  Parameters: {"id"=>"10"}
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Rendering items/edit
+Completed in 14ms (View: 10, DB: 0) | 200 OK [http://localhost/items/10/edit]
+
+
+Processing ItemsController#update (for 127.0.0.1 at 2019-01-29 11:48:51) [PUT]
+  Parameters: {"id"=>"10", "authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "commit"=>"Save changes", "item"=>{"qty"=>"1", "inCart"=>"1", "price"=>"10000", "name"=>"Item1", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.1ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Redirected to http://localhost:3000/items
+Completed in 4ms (DB: 0) | 302 Found [http://localhost/items/10]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:48:51) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#edit (for 127.0.0.1 at 2019-01-29 11:52:08) [GET]
+  Parameters: {"id"=>"10"}
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Rendering items/edit
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://localhost/items/10/edit]
+
+
+Processing ItemsController#edit (for 127.0.0.1 at 2019-01-29 11:52:16) [GET]
+  Parameters: {"id"=>"10"}
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Rendering items/edit
+Completed in 18ms (View: 10, DB: 0) | 200 OK [http://localhost/items/10/edit]
+
+
+Processing ItemsController#edit (for 127.0.0.1 at 2019-01-29 11:54:02) [GET]
+  Parameters: {"id"=>"10"}
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Rendering items/edit
+Completed in 11ms (View: 6, DB: 0) | 200 OK [http://localhost/items/10/edit]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 11:56:38) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#edit (for 127.0.0.1 at 2019-01-29 11:56:44) [GET]
+  Parameters: {"id"=>"10"}
+  [4;36;1mItem Load (0.1ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Rendering items/edit
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://localhost/items/10/edit]
+
+
+Processing ItemsController#update (for 127.0.0.1 at 2019-01-29 11:56:47) [PUT]
+  Parameters: {"id"=>"10", "authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "commit"=>"Save changes", "item"=>{"qty"=>"1", "inCart"=>"1", "price"=>"10000", "name"=>"Item1", "url"=>"moto.jpeg"}}
+
+ActionController::UnknownAction (No action responded to update. Actions: create, edit, index, new, and set_access):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#update (for 127.0.0.1 at 2019-01-29 11:57:10) [PUT]
+  Parameters: {"id"=>"10", "authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "commit"=>"Save changes", "item"=>{"qty"=>"1", "inCart"=>"1", "price"=>"10000", "name"=>"Item1", "url"=>"moto.jpeg"}}
+
+ActionView::MissingTemplate (Missing template items/update.erb in view path app/views):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemsController#update (for 127.0.0.1 at 2019-01-29 12:00:10) [PUT]
+  Parameters: {"id"=>"10", "authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "commit"=>"Save changes", "item"=>{"qty"=>"1", "inCart"=>"1", "price"=>"10000", "name"=>"Item1", "url"=>"moto.jpeg"}}
+Redirected to http://localhost:3000/items
+Completed in 1ms (DB: 0) | 302 Found [http://localhost/items/10]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:00:10) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:04:55) [GET]
+  [4;36;1mItem Load (0.7ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 1) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#edit (for 127.0.0.1 at 2019-01-29 12:05:02) [GET]
+  Parameters: {"id"=>"10"}
+  [4;35;1mItem Load (0.1ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Rendering items/edit
+ERROR: compiling _run_erb_app47views47items47edit46html46erb RAISED compile error
+/home/infibea/TrainingCode/cart/app/views/items/edit.html.erb:21: syntax error, unexpected ':', expecting ')'
+; @output_buffer.concat(( f.input :inCart, as: :boolean do
+                                              ^
+/home/infibea/TrainingCode/cart/app/views/items/edit.html.erb:23: syntax error, unexpected kEND, expecting ')'
+			end ).to_s); @output_buffer.concat "\n    </p>\n\t<p>\n\t\t"
+			   ^
+Function body:           def _run_erb_app47views47items47edit46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ;  form_for(@item) do |f|; @output_buffer.concat "\n\t<p>\n\t\t"
+
+; @output_buffer.concat(( f.label :name ).to_s); @output_buffer.concat "\n\t\t"
+; @output_buffer.concat(( f.text_field :name ).to_s); @output_buffer.concat "\n\t</p>\n\t<p>\n\t\t"
+
+
+; @output_buffer.concat(( f.label :price ).to_s); @output_buffer.concat "\n\t\t"
+; @output_buffer.concat(( f.text_field :price ).to_s); @output_buffer.concat "\n\t</p>\n\t<p>\n\t\t"
+
+
+; @output_buffer.concat(( f.label :qty ).to_s); @output_buffer.concat "\n\t\t"
+; @output_buffer.concat(( f.text_field :qty ).to_s); @output_buffer.concat "\n\t</p>\n\t<p>\n\t\t"
+
+
+; @output_buffer.concat(( f.label :url ).to_s); @output_buffer.concat "\n\t\t"
+; @output_buffer.concat(( f.text_field :url ).to_s); @output_buffer.concat "\n\t</p>\n\t<p>\n\t\t"
+
+
+; @output_buffer.concat(( f.label :inCart ).to_s); @output_buffer.concat "\n\t\t"
+; @output_buffer.concat(( f.check_box :inCart ).to_s); @output_buffer.concat "\n\t\t"
+; @output_buffer.concat(( f.input :inCart, as: :boolean do
+  				f.check_box :inCart, {}, "true", "false" 
+			end ).to_s); @output_buffer.concat "\n    </p>\n\t<p>\n\t\t"
+
+
+; @output_buffer.concat(( f.submit ).to_s); @output_buffer.concat "\n\t</p>\n"
+
+;  end ; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /home/infibea/TrainingCode/cart/app/views/items/edit.html.erb:31:in `compile!'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_view/renderable.rb:61:in `compile'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_view/renderable.rb:28:in `render'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_view/template.rb:205:in `render_template'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_view/base.rb:265:in `render'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/base.rb:1250:in `render_for_file'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/base.rb:936:in `render_without_benchmark'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/benchmarking.rb:51:in `render'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/activesupport-2.3.8/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/activesupport-2.3.8/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/benchmarking.rb:51:in `render'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/base.rb:1326:in `default_render'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/base.rb:1332:in `perform_action_without_filters'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/filters.rb:617:in `call_filters'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/activesupport-2.3.8/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/benchmark.rb:308:in `realtime'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/activesupport-2.3.8/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/flash.rb:151:in `perform_action'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/base.rb:532:in `send'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/base.rb:532:in `process_without_filters'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/filters.rb:606:in `process'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/base.rb:391:in `process'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/base.rb:386:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/routing/route_set.rb:438:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:87:in `dispatch'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:121:in `_call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:130:in `build_middleware_stack'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:29:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:29:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:9:in `cache'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/activerecord-2.3.8/lib/active_record/query_cache.rb:28:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/activerecord-2.3.8/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/string_coercion.rb:25:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rack-1.1.6/lib/rack/head.rb:9:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rack-1.1.6/lib/rack/methodoverride.rb:24:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/params_parser.rb:15:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/session/cookie_store.rb:99:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/failsafe.rb:26:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rack-1.1.6/lib/rack/lock.rb:11:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rack-1.1.6/lib/rack/lock.rb:11:in `synchronize'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rack-1.1.6/lib/rack/lock.rb:11:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:114:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/reloader.rb:34:in `run'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/actionpack-2.3.8/lib/action_controller/dispatcher.rb:108:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rails-2.3.8/lib/rails/rack/static.rb:31:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rack-1.1.6/lib/rack/urlmap.rb:47:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rack-1.1.6/lib/rack/urlmap.rb:41:in `each'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rack-1.1.6/lib/rack/urlmap.rb:41:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rails-2.3.8/lib/rails/rack/log_tailer.rb:17:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rack-1.1.6/lib/rack/content_length.rb:13:in `call'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rack-1.1.6/lib/rack/handler/webrick.rb:48:in `service'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rack-1.1.6/lib/rack/handler/webrick.rb:14:in `run'
+/home/infibea/.rvm/gems/ruby-1.8.7-head/gems/rails-2.3.8/lib/commands/server.rb:111
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:29:in `gem_original_require'
+/home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:29:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/home/infibea/TrainingCode/cart/app/views/items/edit.html.erb:21: syntax error, unexpected ':', expecting ')'
+; @output_buffer.concat(( f.input :inCart, as: :boolean do
+                                              ^
+/home/infibea/TrainingCode/cart/app/views/items/edit.html.erb:23: syntax error, unexpected kEND, expecting ')'
+			end ).to_s); @output_buffer.concat "\n    </p>\n\t<p>\n\t\t"
+			   ^) on line #21 of app/views/items/edit.html.erb:
+18: 	<p>
+19: 		<%= f.label :inCart %>
+20: 		<%= f.check_box :inCart %>
+21: 		<%= f.input :inCart, as: :boolean do
+22:   				f.check_box :inCart, {}, "true", "false" 
+23: 			end %>
+24:     </p>
+
+    app/views/items/edit.html.erb:31:in `compile!'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (68.2ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemsController#edit (for 127.0.0.1 at 2019-01-29 12:05:37) [GET]
+  Parameters: {"id"=>"10"}
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Rendering items/edit
+
+ActionView::TemplateError (undefined method `input' for #<ActionView::Helpers::FormBuilder:0x7f9176de7600>) on line #21 of app/views/items/edit.html.erb:
+18: 	<p>
+19: 		<%= f.label :inCart %>
+20: 		<%= f.check_box :inCart %>
+21: 		<%= f.input :inCart, :as => :boolean do
+22:   				f.check_box :inCart, {}, "true", "false" 
+23: 			end %>
+24:     </p>
+
+    app/views/items/edit.html.erb:21
+    app/views/items/edit.html.erb:1
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (32.7ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemsController#edit (for 127.0.0.1 at 2019-01-29 12:09:16) [GET]
+  Parameters: {"id"=>"10"}
+  [4;35;1mItem Load (0.1ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Rendering items/edit
+Completed in 14ms (View: 10, DB: 0) | 200 OK [http://localhost/items/10/edit]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:09:21) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items/]
+
+
+Processing ItemsController#edit (for 127.0.0.1 at 2019-01-29 12:09:28) [GET]
+  Parameters: {"id"=>"10"}
+  [4;35;1mItem Load (0.1ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Rendering items/edit
+Completed in 16ms (View: 12, DB: 0) | 200 OK [http://localhost/items/10/edit]
+
+
+Processing ItemsController#update (for 127.0.0.1 at 2019-01-29 12:09:31) [PUT]
+  Parameters: {"id"=>"10", "authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "commit"=>"Save changes", "item"=>{"qty"=>"1", "inCart"=>"1", "price"=>"10000", "name"=>"Item1", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.1ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+
+NoMethodError (Attempt to call private method):
+  app/controllers/items_controller.rb:24:in `update'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (26.2ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemsController#update (for 127.0.0.1 at 2019-01-29 12:10:11) [PUT]
+  Parameters: {"id"=>"10", "authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "commit"=>"Save changes", "item"=>{"qty"=>"1", "inCart"=>"1", "price"=>"10000", "name"=>"Item1", "url"=>"moto.jpeg"}}
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+
+ArgumentError (wrong number of arguments (1 for 2)):
+  app/controllers/items_controller.rb:24:in `update'
+  app/controllers/items_controller.rb:24:in `update'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (27.3ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemsController#update (for 127.0.0.1 at 2019-01-29 12:14:39) [PUT]
+  Parameters: {"id"=>"10", "authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "commit"=>"Save changes", "item"=>{"qty"=>"1", "inCart"=>"1", "price"=>"10000", "name"=>"Item1", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.1ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+  [4;36;1mItem Update (0.2ms)[0m   [0;1mUPDATE "items" SET "updated_at" = '2019-01-29 06:44:39', "inCart" = 't' WHERE "id" = 10[0m
+Redirected to http://localhost:3000/items
+Completed in 13ms (DB: 0) | 302 Found [http://localhost/items/10]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:14:39) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:17:25) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:23:18) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 11ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:23:35) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:24:41) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:26:40) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 10ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:27:38) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#10 (for 127.0.0.1 at 2019-01-29 12:27:39) [OPTIONS]
+  Parameters: {"id"=>"edit"}
+
+ActionController::UnknownAction (No action responded to 10. Actions: create, edit, index, new, set_access, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#11 (for 127.0.0.1 at 2019-01-29 12:28:25) [OPTIONS]
+  Parameters: {"id"=>"edit"}
+
+ActionController::UnknownAction (No action responded to 11. Actions: create, edit, index, new, set_access, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:30:05) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#10 (for 127.0.0.1 at 2019-01-29 12:30:07) [OPTIONS]
+  Parameters: {"id"=>"edit"}
+
+ActionController::UnknownAction (No action responded to 10. Actions: create, edit, index, new, set_access, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:32:32) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#10 (for 127.0.0.1 at 2019-01-29 12:32:38) [OPTIONS]
+
+ActionController::UnknownAction (No action responded to 10. Actions: create, edit, index, new, set_access, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#11 (for 127.0.0.1 at 2019-01-29 12:34:02) [OPTIONS]
+
+ActionController::UnknownAction (No action responded to 11. Actions: create, edit, index, new, set_access, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:35:59) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 11ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#10 (for 127.0.0.1 at 2019-01-29 12:36:34) [OPTIONS]
+
+ActionController::UnknownAction (No action responded to 10. Actions: create, edit, index, new, set_access, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#edit (for 127.0.0.1 at 2019-01-29 12:36:46) [GET]
+  Parameters: {"id"=>"11"}
+  [4;35;1mItem Load (0.1ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 11) [0m
+Rendering items/edit
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://localhost/items/11/edit]
+
+
+Processing ItemsController#update (for 127.0.0.1 at 2019-01-29 12:36:49) [PUT]
+  Parameters: {"id"=>"11", "authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "commit"=>"Save changes", "item"=>{"qty"=>"1", "inCart"=>"0", "price"=>"25000", "name"=>"Item2", "url"=>"laptop.jpeg"}}
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 11) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 11) [0m
+Redirected to http://localhost:3000/items
+Completed in 7ms (DB: 0) | 302 Found [http://localhost/items/11]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:36:49) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:44:36) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 13ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:47:08) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#10 (for 127.0.0.1 at 2019-01-29 12:47:20) [OPTIONS]
+
+ActionController::UnknownAction (No action responded to 10. Actions: create, edit, index, new, set_access, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:49:01) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#10 (for 127.0.0.1 at 2019-01-29 12:49:07) [OPTIONS]
+
+ActionController::UnknownAction (No action responded to 10. Actions: create, edit, index, new, set_access, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:53:38) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:54:21) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:55:14) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:55:42) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:56:05) [GET]
+  [4;36;1mItem Load (2.9ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 11ms (View: 4, DB: 3) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:57:04) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 12:57:34) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#edit (for 127.0.0.1 at 2019-01-29 13:08:50) [GET]
+  Parameters: {"id"=>"10"}
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Rendering items/edit
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://localhost/items/10/edit]
+
+
+Processing ItemsController#update (for 127.0.0.1 at 2019-01-29 13:08:54) [PUT]
+  Parameters: {"id"=>"10", "authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "commit"=>"Save changes", "item"=>{"qty"=>"1", "inCart"=>"0", "price"=>"10000", "name"=>"Item1", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+  [4;36;1mItem Update (0.2ms)[0m   [0;1mUPDATE "items" SET "updated_at" = '2019-01-29 07:38:54', "inCart" = 'f' WHERE "id" = 10[0m
+Redirected to http://localhost:3000/items
+Completed in 13ms (DB: 0) | 302 Found [http://localhost/items/10]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:08:54) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:09:09) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#edit (for 127.0.0.1 at 2019-01-29 13:09:13) [GET]
+  Parameters: {"id"=>"10"}
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Rendering items/edit
+Completed in 11ms (View: 6, DB: 0) | 200 OK [http://localhost/items/10/edit]
+
+
+Processing ItemsController#update (for 127.0.0.1 at 2019-01-29 13:09:17) [PUT]
+  Parameters: {"id"=>"10", "authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "commit"=>"Save changes", "item"=>{"qty"=>"1", "inCart"=>"1", "price"=>"10000", "name"=>"Item1", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.1ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+  [4;36;1mItem Update (0.2ms)[0m   [0;1mUPDATE "items" SET "updated_at" = '2019-01-29 07:39:17', "inCart" = 't' WHERE "id" = 10[0m
+Rendering items/update
+
+ActionView::TemplateError (undefined local variable or method `item' for #<ActionView::Base:0x7f9176e134d0>) on line #1 of app/views/items/update.html.erb:
+1: <%= item %>
+
+    app/views/items/update.html.erb:1
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (32.1ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemsController#update (for 127.0.0.1 at 2019-01-29 13:09:36) [PUT]
+  Parameters: {"id"=>"10", "authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "commit"=>"Save changes", "item"=>{"qty"=>"1", "inCart"=>"1", "price"=>"10000", "name"=>"Item1", "url"=>"moto.jpeg"}}
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Rendering items/update
+Completed in 10ms (View: 3, DB: 0) | 200 OK [http://localhost/items/10]
+
+
+Processing ItemsController#update (for 127.0.0.1 at 2019-01-29 13:10:00) [PUT]
+  Parameters: {"id"=>"10", "authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "commit"=>"Save changes", "item"=>{"qty"=>"1", "inCart"=>"1", "price"=>"10000", "name"=>"Item1", "url"=>"moto.jpeg"}}
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Rendering items/update
+Completed in 10ms (View: 3, DB: 0) | 200 OK [http://localhost/items/10]
+
+
+Processing ItemsController#update (for 127.0.0.1 at 2019-01-29 13:11:31) [PUT]
+  Parameters: {"id"=>"10", "authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "commit"=>"Save changes", "item"=>{"qty"=>"1", "inCart"=>"1", "price"=>"10000", "name"=>"Item1", "url"=>"moto.jpeg"}}
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Rendering items/update
+Completed in 10ms (View: 3, DB: 0) | 200 OK [http://localhost/items/10]
+
+
+Processing ItemsController#update (for 127.0.0.1 at 2019-01-29 13:11:57) [PUT]
+  Parameters: {"id"=>"10", "authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "commit"=>"Save changes", "item"=>{"qty"=>"1", "inCart"=>"1", "price"=>"10000", "name"=>"Item1", "url"=>"moto.jpeg"}}
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Rendering items/update
+Completed in 12ms (View: 4, DB: 0) | 200 OK [http://localhost/items/10]
+
+
+Processing ItemsController#edit (for 127.0.0.1 at 2019-01-29 13:12:03) [GET]
+  Parameters: {"id"=>"10"}
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Rendering items/edit
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://localhost/items/10/edit]
+
+
+Processing ItemsController#update (for 127.0.0.1 at 2019-01-29 13:12:05) [PUT]
+  Parameters: {"id"=>"10", "authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "commit"=>"Save changes", "item"=>{"qty"=>"1", "inCart"=>"1", "price"=>"10000", "name"=>"Item1", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.1ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Rendering items/update
+Completed in 7ms (View: 1, DB: 0) | 200 OK [http://localhost/items/10]
+
+
+Processing ItemsController#update (for 127.0.0.1 at 2019-01-29 13:12:34) [PUT]
+  Parameters: {"id"=>"10", "authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "commit"=>"Save changes", "item"=>{"qty"=>"1", "inCart"=>"1", "price"=>"10000", "name"=>"Item1", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Rendering items/update
+
+ActionView::TemplateError (undefined method `controller' for #<Item:0x7f9176b8c7e8>) on line #2 of app/views/items/update.html.erb:
+1: <%= @item.id %>
+2: <%= @item.controller %>
+
+    app/views/items/update.html.erb:2
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (31.7ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemsController#update (for 127.0.0.1 at 2019-01-29 13:12:47) [PUT]
+  Parameters: {"id"=>"10", "authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "commit"=>"Save changes", "item"=>{"qty"=>"1", "inCart"=>"1", "price"=>"10000", "name"=>"Item1", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Rendering items/update
+
+ActionView::TemplateError (undefined method `product' for #<Item:0x7f9176c31a68>) on line #2 of app/views/items/update.html.erb:
+1: <%= @item.id %>
+2: <%= @item.product %>
+
+    app/views/items/update.html.erb:2
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+    /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (72.5ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemsController#update (for 127.0.0.1 at 2019-01-29 13:13:05) [PUT]
+  Parameters: {"id"=>"10", "authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "commit"=>"Save changes", "item"=>{"qty"=>"1", "inCart"=>"1", "price"=>"10000", "name"=>"Item1", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 10) [0m
+Rendering items/update
+Completed in 14ms (View: 4, DB: 0) | 200 OK [http://localhost/items/10]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:13:46) [GET]
+  [4;36;1mItem Load (0.5ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 1) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:14:20) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:15:05) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:15:29) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:15:51) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 46ms (View: 41, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:16:26) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 14ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:16:39) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:17:25) [GET]
+  [4;35;1mItem Load (0.5ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 1) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:20:03) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:20:17) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:21:58) [GET]
+  [4;36;1mItem Load (0.7ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 10ms (View: 6, DB: 1) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:23:14) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:23:29) [GET]
+  [4;36;1mItem Load (0.5ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 42ms (View: 38, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:24:20) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:25:37) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:29:40) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 11ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:31:41) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:39:17) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:39:24) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:40:25) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#10 (for 127.0.0.1 at 2019-01-29 13:40:27) [OPTIONS]
+
+ActionController::UnknownAction (No action responded to 10. Actions: create, edit, index, new, set_access, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:40:29) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#10 (for 127.0.0.1 at 2019-01-29 13:40:33) [OPTIONS]
+
+ActionController::UnknownAction (No action responded to 10. Actions: create, edit, index, new, set_access, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:44:31) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#10 (for 127.0.0.1 at 2019-01-29 13:44:32) [OPTIONS]
+
+ActionController::UnknownAction (No action responded to 10. Actions: create, edit, index, new, set_access, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:44:56) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:45:00) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#10 (for 127.0.0.1 at 2019-01-29 13:45:10) [OPTIONS]
+
+ActionController::UnknownAction (No action responded to 10. Actions: create, edit, index, new, set_access, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:47:09) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 43ms (View: 39, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:47:43) [GET]
+  [4;35;1mItem Load (0.7ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 11ms (View: 4, DB: 1) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:48:09) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 13:48:32) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 15:23:58) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 15:24:51) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 15:25:22) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 15:25:58) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 15:30:38) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 51ms (View: 47, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 15:31:44) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 10ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 15:38:25) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 15:39:50) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 15:40:01) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 10ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 15:41:27) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 15:42:24) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 15:45:25) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 15:45:46) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 13ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 15:48:33) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 15:49:34) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 10ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 15:50:18) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 11ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:03:26) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:04:57) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:06:05) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:06:29) [GET]
+  [4;35;1mItem Load (1.6ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 2) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:11:02) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:27:14) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 12ms (View: 8, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:36:02) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:37:44) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:39:10) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:42:37) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:42:37) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:44:05) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 10ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:44:05) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:45:23) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:46:22) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 10ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:47:59) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#new (for 127.0.0.1 at 2019-01-29 16:49:38) [GET]
+Rendering items/new
+Completed in 24ms (View: 21, DB: 0) | 200 OK [http://localhost/items/new]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:57:01) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:57:10) [OPTIONS]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:57:18) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:58:56) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:59:13) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:59:17) [OPTIONS]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 16:59:23) [OPTIONS]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#new (for 127.0.0.1 at 2019-01-29 17:00:38) [GET]
+Rendering items/new
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://localhost/items/new]
+
+
+Processing ItemsController#create (for 127.0.0.1 at 2019-01-29 17:00:45) [POST]
+  Parameters: {"qty"=>"1", "name"=>"Item5", "price"=>"100", "url"=>"laptop.jpeg"}
+
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (34.3ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (unprocessable_entity)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:02:40) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:02:42) [OPTIONS]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:03:11) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:03:40) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 10ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:03:44) [OPTIONS]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:07:06) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:07:21) [OPTIONS]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:11:41) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:11:47) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:12:06) [OPTIONS]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 12ms (View: 8, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:16:24) [GET]
+  [4;35;1mItem Load (0.6ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 13ms (View: 9, DB: 1) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#create (for 127.0.0.1 at 2019-01-29 17:17:12) [POST]
+  [4;36;1mItem Create (1.9ms)[0m   [0;1mINSERT INTO "items" ("qty", "created_at", "inCart", "name", "updated_at", "price", "url") VALUES(NULL, '2019-01-29 11:47:12', 'f', NULL, '2019-01-29 11:47:12', NULL, NULL)[0m
+Redirected to http://localhost:3000/items
+Completed in 48ms (DB: 2) | 302 Found [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:17:12) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#create (for 127.0.0.1 at 2019-01-29 17:18:23) [POST]
+  Parameters: {"qty"=>"1", "price"=>"3000", "name"=>"Item6", "url"=>"laptop.jpeg"}
+  [4;36;1mItem Create (6.6ms)[0m   [0;1mINSERT INTO "items" ("qty", "created_at", "inCart", "name", "updated_at", "price", "url") VALUES(NULL, '2019-01-29 11:48:23', 'f', NULL, '2019-01-29 11:48:23', NULL, NULL)[0m
+Redirected to http://localhost:3000/items
+Completed in 24ms (DB: 7) | 302 Found [http://localhost/items?price=3000&url=laptop.jpeg&qty=1&name=Item6]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:18:23) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#create (for 127.0.0.1 at 2019-01-29 17:20:08) [POST]
+  Parameters: {"qty"=>"1", "price"=>"3000", "name"=>"Item6", "------WebKitFormBoundary0zgXkIac8BGYSVpv\r\nContent-Disposition: form-data"=>nil, "url"=>"laptop.jpeg"}
+
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (28.1ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (unprocessable_entity)
+
+
+Processing ActionController::Base#create (for 127.0.0.1 at 2019-01-29 17:21:52) [POST]
+  Parameters: {"qty"=>"1", "price"=>"3000", "name"=>"Item6", "url"=>"laptop.jpeg", "------WebKitFormBoundaryujhzV05JxcdSvc6R\r\nContent-Disposition: form-data"=>nil}
+
+NoMethodError (undefined method `delete' for :null_session:Symbol):
+  app/controllers/application_controller.rb:6
+  app/controllers/items_controller.rb:1
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (32.6ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ActionController::Base#create (for 127.0.0.1 at 2019-01-29 17:23:01) [POST]
+  Parameters: {"price"=>"3000", "name"=>"\"url\"\r\n\r\nlaptop.jpeg\r\n------WebKitFormBoundaryUnjgKaACAABiwJ78--\r\n", "------WebKitFormBoundaryUnjgKaACAABiwJ78\r\nContent-Disposition: form-data"=>nil}
+
+NoMethodError (undefined method `delete' for :null_session:Symbol):
+  app/controllers/application_controller.rb:6
+  app/controllers/items_controller.rb:1
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (76.6ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ItemsController#create (for 127.0.0.1 at 2019-01-29 17:23:33) [POST]
+  Parameters: {"price"=>"3000", "name"=>"\"url\"\r\n\r\nlaptop.jpeg\r\n------WebKitFormBoundaryPM2QivHEHXlCBEnk--\r\n", "------WebKitFormBoundaryPM2QivHEHXlCBEnk\r\nContent-Disposition: form-data"=>nil}
+
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (31.4ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (unprocessable_entity)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:25:32) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:25:33) [GET]
+  [4;35;1mItem Load (0.5ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 43ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#create (for 127.0.0.1 at 2019-01-29 17:25:45) [POST]
+  Parameters: {"------WebKitFormBoundaryZn0LpVMRdxxUBKv3\r\nContent-Disposition: form-data"=>nil, "price"=>"3000", "name"=>"\"url\"\r\n\r\nlaptop.jpeg\r\n------WebKitFormBoundaryZn0LpVMRdxxUBKv3--\r\n"}
+
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (31.9ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (unprocessable_entity)
+
+
+Processing ItemsController#create (for 127.0.0.1 at 2019-01-29 17:26:16) [POST]
+  Parameters: {"------WebKitFormBoundaryKl9ZESFg5zMr0gsQ\r\nContent-Disposition: form-data"=>nil, "name"=>"\"url\"\r\n\r\nlaptop.jpeg\r\n------WebKitFormBoundaryKl9ZESFg5zMr0gsQ--\r\n"}
+
+ActionController::InvalidAuthenticityToken (ActionController::InvalidAuthenticityToken):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendered rescues/_trace (27.9ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (unprocessable_entity)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:28:42) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#new (for 127.0.0.1 at 2019-01-29 17:28:45) [GET]
+Rendering items/new
+Completed in 16ms (View: 11, DB: 0) | 200 OK [http://localhost/items/new]
+
+
+Processing ItemsController#create (for 127.0.0.1 at 2019-01-29 17:29:00) [POST]
+  Parameters: {"authenticity_token"=>"MfavKlrmHPL5fdltprIEIY6bGtjAjKcUpY8KnDJXMzQ=", "commit"=>"Save changes", "item"=>{"qty"=>"1", "price"=>"15000", "name"=>"Item5", "url"=>"moto.jpeg"}}
+  [4;35;1mItem Create (0.3ms)[0m   [0mINSERT INTO "items" ("qty", "created_at", "inCart", "name", "updated_at", "price", "url") VALUES(1, '2019-01-29 11:59:00', 'f', 'Item5', '2019-01-29 11:59:00', 15000, 'moto.jpeg')[0m
+Redirected to http://localhost:3000/items
+Completed in 14ms (DB: 0) | 302 Found [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:29:00) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:29:12) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 16ms (View: 7, DB: 0) | 200 OK [http://localhost/items]
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 14) [0m
+  [4;35;1mItem Load (0.5ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 14) [0m
+  [4;36;1mItem Delete all (9.3ms)[0m   [0;1mDELETE FROM "items" WHERE ("id" IN (14)) [0m
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 14) [0m
+  [4;36;1mItem Load (0.5ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 13) [0m
+  [4;35;1mItem Delete all (10.2ms)[0m   [0mDELETE FROM "items" WHERE ("id" IN (13)) [0m
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:30:23) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:30:32) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:30:34) [OPTIONS]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 11ms (View: 6, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:35:08) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#create (for 127.0.0.1 at 2019-01-29 17:35:35) [POST]
+  Parameters: {"qty"=>"1", "name"=>"Item5", "price"=>"100", "url"=>"laptop.jpeg"}
+  [4;36;1mItem Create (0.5ms)[0m   [0;1mINSERT INTO "items" ("qty", "created_at", "inCart", "name", "updated_at", "price", "url") VALUES(NULL, '2019-01-29 12:05:35', 'f', NULL, '2019-01-29 12:05:35', NULL, NULL)[0m
+Redirected to http://localhost:3000/items
+Completed in 15ms (DB: 1) | 302 Found [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:35:35) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:35:51) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 16) [0m
+  [4;35;1mItem Delete all (12.7ms)[0m   [0mDELETE FROM "items" WHERE ("id" IN (16)) [0m
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:36:46) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#create (for 127.0.0.1 at 2019-01-29 17:37:20) [POST]
+  Parameters: {"qty"=>1, "price"=>1000, "name"=>"Item7", "url"=>"laptop.jpeg"}
+  [4;36;1mItem Create (0.5ms)[0m   [0;1mINSERT INTO "items" ("qty", "created_at", "inCart", "name", "updated_at", "price", "url") VALUES(NULL, '2019-01-29 12:07:20', 'f', NULL, '2019-01-29 12:07:20', NULL, NULL)[0m
+Redirected to http://localhost:3000/items
+Completed in 20ms (DB: 1) | 302 Found [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:37:20) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 11ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#create (for 127.0.0.1 at 2019-01-29 17:37:42) [POST]
+  Parameters: {"qty"=>"1", "name"=>"Item7", "price"=>"1000", "url"=>"laptop.jpeg"}
+  [4;36;1mItem Create (1.7ms)[0m   [0;1mINSERT INTO "items" ("qty", "created_at", "inCart", "name", "updated_at", "price", "url") VALUES(NULL, '2019-01-29 12:07:42', 'f', NULL, '2019-01-29 12:07:42', NULL, NULL)[0m
+Redirected to http://localhost:3000/items
+Completed in 58ms (DB: 2) | 302 Found [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:37:42) [GET]
+  [4;35;1mItem Load (0.5ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:40:50) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:41:00) [OPTIONS]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 12ms (View: 8, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:41:17) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:41:34) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+  [4;36;1mItem Load (0.5ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 17) [0m
+  [4;35;1mItem Delete all (8.9ms)[0m   [0mDELETE FROM "items" WHERE ("id" IN (17)) [0m
+  [4;36;1mItem Load (0.5ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 18) [0m
+  [4;35;1mItem Delete all (10.6ms)[0m   [0mDELETE FROM "items" WHERE ("id" IN (18)) [0m
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:41:52) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:41:55) [OPTIONS]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:41:57) [GET]
+  [4;36;1mItem Load (0.5ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 50ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:49:53) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 11ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:49:59) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 10ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 17:52:59) [OPTIONS]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:15:45) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:15:54) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:16:21) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:16:40) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 10ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:17:11) [GET]
+  [4;36;1mItem Load (0.5ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 45ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:17:27) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 10ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:17:52) [GET]
+  [4;36;1mItem Load (0.5ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#show (for 127.0.0.1 at 2019-01-29 18:21:35) [GET]
+  Parameters: {"id"=>"view"}
+
+ActionController::UnknownAction (No action responded to show. Actions: create, edit, index, new, set_access, update, and view):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#show (for 127.0.0.1 at 2019-01-29 18:22:24) [GET]
+  Parameters: {"id"=>"view"}
+
+ActionController::UnknownAction (No action responded to show. Actions: create, edit, index, new, set_access, update, and view):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:22:28) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#show (for 127.0.0.1 at 2019-01-29 18:22:37) [GET]
+  Parameters: {"id"=>"view"}
+
+ActionController::UnknownAction (No action responded to show. Actions: create, edit, index, new, set_access, update, and view):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#show (for 127.0.0.1 at 2019-01-29 18:23:09) [GET]
+  Parameters: {"id"=>"view"}
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/items/view/]
+
+
+Processing ItemsController#show (for 127.0.0.1 at 2019-01-29 18:23:56) [GET]
+  Parameters: {"id"=>"view"}
+  [4;36;1mItem Load (0.5ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items/view/]
+
+
+Processing ItemsController#show (for 127.0.0.1 at 2019-01-29 18:23:58) [GET]
+  Parameters: {"id"=>"view"}
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items/view/]
+
+
+Processing ItemsController#show (for 127.0.0.1 at 2019-01-29 18:24:03) [GET]
+  Parameters: {"id"=>"view"}
+Rendering items/show
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/items/view/]
+
+
+Processing ItemsController#show (for 127.0.0.1 at 2019-01-29 18:26:03) [GET]
+  Parameters: {"id"=>"view"}
+Rendering items/show
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/items/view/]
+
+
+Processing ItemsController#view to css (for 127.0.0.1 at 2019-01-29 18:26:03) [GET]
+  Parameters: {"id"=>"style"}
+
+ActionController::UnknownAction (No action responded to view. Actions: create, edit, index, new, set_access, show, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#view to js (for 127.0.0.1 at 2019-01-29 18:26:03) [GET]
+  Parameters: {"id"=>"itemsController"}
+
+ActionController::UnknownAction (No action responded to view. Actions: create, edit, index, new, set_access, show, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#view to css (for 127.0.0.1 at 2019-01-29 18:26:03) [GET]
+  Parameters: {"id"=>"style"}
+
+ActionController::UnknownAction (No action responded to view. Actions: create, edit, index, new, set_access, show, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#view to js (for 127.0.0.1 at 2019-01-29 18:26:03) [GET]
+  Parameters: {"id"=>"itemsController"}
+
+ActionController::UnknownAction (No action responded to view. Actions: create, edit, index, new, set_access, show, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#show (for 127.0.0.1 at 2019-01-29 18:27:31) [GET]
+  Parameters: {"id"=>"view"}
+Rendering items/show
+Completed in 39ms (View: 9, DB: 0) | 200 OK [http://localhost/items/view/]
+
+
+Processing ItemsController#view to css (for 127.0.0.1 at 2019-01-29 18:27:31) [GET]
+  Parameters: {"id"=>"style"}
+
+ActionController::UnknownAction (No action responded to view. Actions: create, edit, index, new, set_access, show, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#view to js (for 127.0.0.1 at 2019-01-29 18:27:31) [GET]
+  Parameters: {"id"=>"itemsController"}
+
+ActionController::UnknownAction (No action responded to view. Actions: create, edit, index, new, set_access, show, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#view to css (for 127.0.0.1 at 2019-01-29 18:27:31) [GET]
+  Parameters: {"id"=>"style"}
+
+ActionController::UnknownAction (No action responded to view. Actions: create, edit, index, new, set_access, show, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#view to js (for 127.0.0.1 at 2019-01-29 18:27:31) [GET]
+  Parameters: {"id"=>"itemsController"}
+
+ActionController::UnknownAction (No action responded to view. Actions: create, edit, index, new, set_access, show, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#show (for 127.0.0.1 at 2019-01-29 18:29:13) [GET]
+  Parameters: {"id"=>"view"}
+Rendering items/show
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/items/view/]
+
+
+Processing ItemsController#view to js (for 127.0.0.1 at 2019-01-29 18:29:13) [GET]
+  Parameters: {"id"=>"itemsController"}
+
+ActionController::UnknownAction (No action responded to view. Actions: create, edit, index, new, set_access, show, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#view to css (for 127.0.0.1 at 2019-01-29 18:29:13) [GET]
+  Parameters: {"id"=>"style"}
+
+ActionController::UnknownAction (No action responded to view. Actions: create, edit, index, new, set_access, show, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#view to css (for 127.0.0.1 at 2019-01-29 18:29:14) [GET]
+  Parameters: {"id"=>"style"}
+
+ActionController::UnknownAction (No action responded to view. Actions: create, edit, index, new, set_access, show, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#view to js (for 127.0.0.1 at 2019-01-29 18:29:14) [GET]
+  Parameters: {"id"=>"itemsController"}
+
+ActionController::UnknownAction (No action responded to view. Actions: create, edit, index, new, set_access, show, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:32:31) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 12ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:32:33) [OPTIONS]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:34:43) [GET]
+  [4;36;1mItem Load (4.2ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 14ms (View: 6, DB: 4) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:35:50) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:35:58) [OPTIONS]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:38:01) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:38:06) [OPTIONS]
+  [4;36;1mItem Load (0.5ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#create (for 127.0.0.1 at 2019-01-29 18:38:07) [POST]
+  Parameters: {"item"=>{"qty"=>1, "price"=>10001, "name"=>"Item4", "inCart"=>true, "url"=>"moto.jpeg"}}
+  [4;35;1mItem Create (0.3ms)[0m   [0mINSERT INTO "items" ("qty", "price", "name", "created_at", "updated_at", "inCart", "url") VALUES(1, 10001, 'Item4', '2019-01-29 13:08:07', '2019-01-29 13:08:07', 't', 'moto.jpeg')[0m
+Redirected to http://localhost:3000/items
+Completed in 17ms (DB: 0) | 302 Found [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:38:07) [OPTIONS]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:38:07) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:38:20) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:44:19) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#undefined (for 127.0.0.1 at 2019-01-29 18:44:48) [OPTIONS]
+
+ActionController::UnknownAction (No action responded to undefined. Actions: create, edit, index, new, set_access, show, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:44:51) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 41ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#undefined (for 127.0.0.1 at 2019-01-29 18:45:19) [OPTIONS]
+
+ActionController::UnknownAction (No action responded to undefined. Actions: create, edit, index, new, set_access, show, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:45:32) [GET]
+  [4;35;1mItem Load (0.6ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 1) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:46:47) [OPTIONS]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#create (for 127.0.0.1 at 2019-01-29 18:46:47) [POST]
+  Parameters: {"item"=>{"qty"=>1, "price"=>10001, "name"=>"Item4", "inCart"=>true, "url"=>"moto.jpeg"}}
+  [4;35;1mItem Create (0.3ms)[0m   [0mINSERT INTO "items" ("qty", "price", "name", "created_at", "updated_at", "inCart", "url") VALUES(1, 10001, 'Item4', '2019-01-29 13:16:47', '2019-01-29 13:16:47', 't', 'moto.jpeg')[0m
+Redirected to http://localhost:3000/items
+Completed in 16ms (DB: 0) | 302 Found [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:46:47) [OPTIONS]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:46:47) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#undefined (for 127.0.0.1 at 2019-01-29 18:47:03) [OPTIONS]
+
+ActionController::UnknownAction (No action responded to undefined. Actions: create, edit, index, new, set_access, show, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:47:42) [GET]
+  [4;36;1mItem Load (0.5ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 13ms (View: 6, DB: 1) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#undefined (for 127.0.0.1 at 2019-01-29 18:47:53) [OPTIONS]
+
+ActionController::UnknownAction (No action responded to undefined. Actions: create, edit, index, new, set_access, show, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:49:17) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:49:47) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:51:22) [GET]
+  [4;35;1mItem Load (0.6ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 12ms (View: 6, DB: 1) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:51:24) [OPTIONS]
+  [4;36;1mItem Load (0.5ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#create (for 127.0.0.1 at 2019-01-29 18:51:24) [POST]
+  Parameters: {"item"=>{"qty"=>1, "price"=>10001, "name"=>"Item10", "inCart"=>true, "url"=>"moto.jpeg"}}
+  [4;35;1mItem Create (0.5ms)[0m   [0mINSERT INTO "items" ("qty", "price", "name", "created_at", "updated_at", "inCart", "url") VALUES(1, 10001, 'Item10', '2019-01-29 13:21:24', '2019-01-29 13:21:24', 't', 'moto.jpeg')[0m
+Redirected to http://localhost:3000/items
+Completed in 13ms (DB: 0) | 302 Found [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:51:24) [OPTIONS]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:51:24) [GET]
+  [4;35;1mItem Load (0.6ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 10ms (View: 6, DB: 1) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:51:26) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#undefined (for 127.0.0.1 at 2019-01-29 18:52:19) [OPTIONS]
+
+ActionController::UnknownAction (No action responded to undefined. Actions: create, edit, index, new, set_access, show, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#undefined (for 127.0.0.1 at 2019-01-29 18:52:37) [OPTIONS]
+
+ActionController::UnknownAction (No action responded to undefined. Actions: create, edit, index, new, set_access, show, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:52:45) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:53:21) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 12ms (View: 7, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:53:28) [OPTIONS]
+  [4;35;1mItem Load (0.5ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:53:51) [GET]
+  [4;36;1mItem Load (0.6ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 49ms (View: 8, DB: 1) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:53:55) [OPTIONS]
+  [4;35;1mItem Load (0.6ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 10ms (View: 5, DB: 1) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#create (for 127.0.0.1 at 2019-01-29 18:53:55) [POST]
+  Parameters: {"item"=>{"qty"=>1, "price"=>10001, "name"=>"Item10", "inCart"=>true, "url"=>"moto.jpeg"}}
+  [4;36;1mItem Create (0.3ms)[0m   [0;1mINSERT INTO "items" ("qty", "price", "name", "created_at", "updated_at", "inCart", "url") VALUES(1, 10001, 'Item10', '2019-01-29 13:23:55', '2019-01-29 13:23:55', 't', 'moto.jpeg')[0m
+Redirected to http://localhost:3000/items
+Completed in 17ms (DB: 0) | 302 Found [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:53:55) [OPTIONS]
+  [4;35;1mItem Load (0.5ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 11ms (View: 6, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:53:55) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#undefined (for 127.0.0.1 at 2019-01-29 18:55:28) [OPTIONS]
+
+ActionController::UnknownAction (No action responded to undefined. Actions: create, edit, index, new, set_access, show, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:55:29) [GET]
+  [4;35;1mItem Load (0.5ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#12 (for 127.0.0.1 at 2019-01-29 18:55:38) [OPTIONS]
+
+ActionController::UnknownAction (No action responded to 12. Actions: create, edit, index, new, set_access, show, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:55:41) [GET]
+  [4;36;1mItem Load (0.5ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:59:13) [GET]
+  [4;35;1mItem Load (0.6ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 17ms (View: 8, DB: 1) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#22 (for 127.0.0.1 at 2019-01-29 18:59:23) [OPTIONS]
+
+ActionController::UnknownAction (No action responded to 22. Actions: create, edit, index, new, set_access, show, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 18:59:29) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 19:00:30) [GET]
+  [4;35;1mItem Load (0.7ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 11ms (View: 6, DB: 1) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 19:00:34) [GET]
+  [4;36;1mItem Load (0.5ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 18ms (View: 10, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#22 (for 127.0.0.1 at 2019-01-29 19:00:37) [OPTIONS]
+
+ActionController::UnknownAction (No action responded to 22. Actions: create, edit, index, new, set_access, show, and update):
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /home/infibea/.rvm/rubies/ruby-1.8.7-head/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-01-29 19:00:42) [GET]
+  [4;35;1mItem Load (0.5ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 50ms (View: 6, DB: 0) | 200 OK [http://localhost/items]
