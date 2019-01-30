@@ -1,8 +1,14 @@
 class ItemsController < ApplicationController
 	def index
-		@items = Item.all
+		if request.method == :get
+			@items = Item.all
+			render :json => @items
+		else
+			render :json => @items
 
-		render :json => @items
+		end
+
+		
 	end
 	def show 
 		
@@ -25,6 +31,17 @@ class ItemsController < ApplicationController
 		@item = Item.find(params[:id])
 		Item.update(params[:id],params[:item])
 		
+	end
+	def put
+		if request.method == :options
+			render :nothing => true
+		else
+			@item = Item.find(params[:id])
+			Item.update(params[:id],params[:item])
+			render :json => Item.find(params[:id])
+		end
+		#@item = Item.find(params[:id])
+		#Item.update(params[:id],params[:item])
 	end
 	'''def update
 		@item = Item.find(params[:id])

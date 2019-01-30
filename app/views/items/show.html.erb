@@ -7,10 +7,16 @@
 	<input type="button" class="cart-button button" style="float: right;" value="cart" />
 	<ul class="cart">
 		
-		<li class="item-in-cart" ng-if="!cart.length">Cart is Empty!</li>
-		<li class="item-in-cart" ng-repeat="item in cart">
-			<img ng-src="{{item.url}}" />
-			Item:{{ item.name }}, qty: {{ item.qty }} <br />price:{{ item.price*item.qty | currency: "\u20B9 " }}<span class="remove" ng-click="removeFromCart(item)">X</span>
+		<!--<li class="item-in-cart" ng-if="!cart.length">Cart is Empty!</li>-->
+		<li class="item-in-cart" ng-repeat="citem in cart" ng-if="citem.item.inCart">
+			
+				<img ng-src="{{citem.item.url}}" />
+				<div class="content" ng-style="margin-left: 5px;">
+				{{ citem.item.name }} <br/> qty: {{ citem.item.qty }} <br />price:{{ citem.item.price*citem.item.qty | currency: "\u20B9 " }}</div>
+				<input type="button" ng-click="addToCart2(citem,-1) " value="-"/>
+				<input type="button" ng-click="addToCart2(citem,1) " value="+"/>
+				<span class="remove" ng-click="removeFromCart(citem)">X</span>
+			
 		</li> 
 		<li class="item-in-cart">
 			<label for="total">Total: </label>
@@ -20,16 +26,18 @@
 	</ul>
 	
 	<ul class="selection">
-		<li class="item" ng-repeat="name in myData">
-			<img ng-src="{{name.item.url}}" />
-			{{ name.item.name }} {{ name.item.price | currency: "\u20B9 "}}<input type="number" name="qty" ng-model="name.item.qty" class="num_input"/><input type="button" class="cart-button button" value="add to cart" ng-click="addToCart(name.item)"/>
-			<input type="button" class="cart-button button" value="add to cart" ng-click="addToCart2(name)"/>
-			<!--<span class="remove" ng-click="removeFromDB(name.item)">X</span> -->
+		<li class="item" ng-repeat="name in myData" >
+			<div >
+				<img ng-src="{{name.item.url}}" />
+				{{ name.item.name }} {{ name.item.price | currency: "\u20B9 "}}<input type="number" name="qty" ng-model="name.item.qty" class="num_input"/>
+				<input type="button" class="cart-button button" value="add to cart" ng-click="addToCart2(name,0)"/>
+				<!--<span class="remove" ng-click="removeFromDB(name.item)">X</span> -->
+			</div>
 		</li>
 	</ul>
 	
 	<script src="itemsController.js"></script>
-	<input type="button" class="cart-button button" value="Click" ng-click="addItem()"/>
+	<!--<input type="button" class="cart-button button" value="Click" ng-click="addItem()"/>-->
 	
 
 </div>

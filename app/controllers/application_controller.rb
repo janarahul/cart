@@ -9,6 +9,7 @@ class ApplicationController < ActionController::Base
   def set_access
 	response.headers["Access-Control-Allow-Origin"] = "*"
 	response.headers["Access-Control-Allow-Methods"] = "*"
+
 	
   end
   # Scrub sensitive parameters from your log
