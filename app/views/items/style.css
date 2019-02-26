@@ -36,6 +36,18 @@ img {
   background: #eee;
   height: 100%;
 }
+.qty-button{
+  background-color: #ccc ;
+  padding: 4px 8px;
+  cursor: pointer;
+  opacity: 0.5;
+  border: none;
+  color: black;
+  border-radius: 20px;
+}
+.qty-button:hover {
+    background-color: #aaa ;
+}
 .item {
   color: #000 ;
   background-color: #fff ;
