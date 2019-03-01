@@ -11267,3 +11267,993 @@ Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
 Processing ItemsController#index (for 127.0.0.1 at 2019-02-08 18:33:45) [GET]
   [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
 Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:40:47) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 17ms (View: 13, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:41:59) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:42:39) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:42:39) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:43:05) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:43:10) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 45ms (View: 40, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:43:10) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:43:17) [OPTIONS]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:43:17) [PUT]
+  Parameters: {"id"=>33, "$$hashKey"=>"object:3", "item"=>{"qty"=>1, "name"=>"Item1", "id"=>33, "created_at"=>"2019-01-30T06:52:49Z", "price"=>1000, "inCart"=>true, "updated_at"=>"2019-02-08T13:03:45Z", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.1ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mItem Update (0.2ms)[0m   [0;1mUPDATE "items" SET "inCart" = 't', "updated_at" = '2019-02-26 06:13:17' WHERE "id" = 33[0m
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 15ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:43:17) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:43:28) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:43:28) [PUT]
+  Parameters: {"id"=>34, "$$hashKey"=>"object:4", "item"=>{"qty"=>1, "name"=>"Item2", "id"=>34, "created_at"=>"2019-01-30T06:53:14Z", "price"=>25000, "inCart"=>true, "updated_at"=>"2019-02-08T13:03:37Z", "url"=>"laptop.jpeg"}}
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mItem Update (0.2ms)[0m   [0mUPDATE "items" SET "inCart" = 't', "updated_at" = '2019-02-26 06:13:28' WHERE "id" = 34[0m
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+Completed in 15ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:43:28) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:43:30) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:43:30) [PUT]
+  Parameters: {"id"=>34, "$$hashKey"=>"object:23", "item"=>{"qty"=>2, "name"=>"Item2", "id"=>34, "created_at"=>"2019-01-30T06:53:14Z", "price"=>25000, "inCart"=>true, "updated_at"=>"2019-02-26T06:13:28Z", "url"=>"laptop.jpeg"}}
+  [4;36;1mItem Load (0.1ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mItem Update (0.2ms)[0m   [0;1mUPDATE "items" SET "qty" = 2, "updated_at" = '2019-02-26 06:13:30' WHERE "id" = 34[0m
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+Completed in 16ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:43:30) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:43:32) [OPTIONS]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:43:32) [PUT]
+  Parameters: {"id"=>34, "$$hashKey"=>"object:31", "item"=>{"qty"=>1, "name"=>"Item2", "id"=>34, "created_at"=>"2019-01-30T06:53:14Z", "price"=>25000, "inCart"=>true, "updated_at"=>"2019-02-26T06:13:30Z", "url"=>"laptop.jpeg"}}
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mItem Update (0.2ms)[0m   [0mUPDATE "items" SET "qty" = 1, "updated_at" = '2019-02-26 06:13:32' WHERE "id" = 34[0m
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+Completed in 17ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:43:32) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:43:39) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:43:40) [PUT]
+  Parameters: {"id"=>33, "$$hashKey"=>"object:38", "item"=>{"qty"=>1, "name"=>"Item1", "id"=>33, "created_at"=>"2019-01-30T06:52:49Z", "price"=>1000, "inCart"=>false, "updated_at"=>"2019-02-26T06:13:17Z", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.1ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mItem Update (0.2ms)[0m   [0;1mUPDATE "items" SET "inCart" = 'f', "updated_at" = '2019-02-26 06:13:40' WHERE "id" = 33[0m
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 15ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:43:40) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:43:40) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 12ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:43:40) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:43:40) [PUT]
+  Parameters: {"id"=>34, "$$hashKey"=>"object:47", "item"=>{"qty"=>1, "name"=>"Item2", "id"=>34, "created_at"=>"2019-01-30T06:53:14Z", "price"=>25000, "inCart"=>false, "updated_at"=>"2019-02-26T06:13:32Z", "url"=>"laptop.jpeg"}}
+  [4;36;1mItem Load (0.1ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mItem Update (0.2ms)[0m   [0;1mUPDATE "items" SET "inCart" = 'f', "updated_at" = '2019-02-26 06:13:40' WHERE "id" = 34[0m
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+Completed in 14ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:43:41) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:43:41) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:44:22) [OPTIONS]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:44:22) [PUT]
+  Parameters: {"id"=>33, "$$hashKey"=>"object:65", "item"=>{"qty"=>1, "name"=>"Item1", "id"=>33, "created_at"=>"2019-01-30T06:52:49Z", "price"=>1000, "inCart"=>true, "updated_at"=>"2019-02-26T06:13:40Z", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.5ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mItem Update (0.2ms)[0m   [0;1mUPDATE "items" SET "inCart" = 't', "updated_at" = '2019-02-26 06:14:22' WHERE "id" = 33[0m
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 18ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:44:22) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:44:26) [OPTIONS]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:44:26) [PUT]
+  Parameters: {"id"=>33, "$$hashKey"=>"object:71", "item"=>{"qty"=>0, "name"=>"Item1", "id"=>33, "created_at"=>"2019-01-30T06:52:49Z", "price"=>1000, "inCart"=>true, "updated_at"=>"2019-02-26T06:14:22Z", "url"=>"moto.jpeg"}}
+  [4;35;1mItem Load (0.1ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mItem Update (0.2ms)[0m   [0mUPDATE "items" SET "qty" = 0, "updated_at" = '2019-02-26 06:14:26' WHERE "id" = 33[0m
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 15ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:44:26) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:44:27) [OPTIONS]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:44:27) [PUT]
+  Parameters: {"id"=>33, "$$hashKey"=>"object:78", "item"=>{"qty"=>1, "name"=>"Item1", "id"=>33, "created_at"=>"2019-01-30T06:52:49Z", "price"=>1000, "inCart"=>true, "updated_at"=>"2019-02-26T06:14:26Z", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.1ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mItem Update (0.2ms)[0m   [0;1mUPDATE "items" SET "qty" = 1, "updated_at" = '2019-02-26 06:14:27' WHERE "id" = 33[0m
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 15ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:44:27) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:44:28) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:44:28) [PUT]
+  Parameters: {"id"=>33, "$$hashKey"=>"object:85", "item"=>{"qty"=>1, "name"=>"Item1", "id"=>33, "created_at"=>"2019-01-30T06:52:49Z", "price"=>1000, "inCart"=>false, "updated_at"=>"2019-02-26T06:14:27Z", "url"=>"moto.jpeg"}}
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mItem Update (0.2ms)[0m   [0mUPDATE "items" SET "inCart" = 'f', "updated_at" = '2019-02-26 06:14:28' WHERE "id" = 33[0m
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 17ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:44:28) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:44:28) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:46:44) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:46:44) [PUT]
+  Parameters: {"id"=>33, "$$hashKey"=>"object:98", "item"=>{"qty"=>1, "name"=>"Item1", "id"=>33, "created_at"=>"2019-01-30T06:52:49Z", "price"=>1000, "inCart"=>true, "updated_at"=>"2019-02-26T06:14:28Z", "url"=>"moto.jpeg"}}
+  [4;35;1mItem Load (0.1ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mItem Update (0.2ms)[0m   [0mUPDATE "items" SET "inCart" = 't', "updated_at" = '2019-02-26 06:16:44' WHERE "id" = 33[0m
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 17ms (View: 2, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:46:44) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:46:45) [OPTIONS]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:46:45) [PUT]
+  Parameters: {"id"=>34, "$$hashKey"=>"object:99", "item"=>{"qty"=>1, "name"=>"Item2", "id"=>34, "created_at"=>"2019-01-30T06:53:14Z", "price"=>25000, "inCart"=>true, "updated_at"=>"2019-02-26T06:13:40Z", "url"=>"laptop.jpeg"}}
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mItem Update (0.2ms)[0m   [0;1mUPDATE "items" SET "inCart" = 't', "updated_at" = '2019-02-26 06:16:45' WHERE "id" = 34[0m
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+Completed in 15ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:46:45) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:47:14) [OPTIONS]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:47:14) [PUT]
+  Parameters: {"id"=>34, "$$hashKey"=>"object:112", "item"=>{"qty"=>1, "name"=>"Item2", "id"=>34, "created_at"=>"2019-01-30T06:53:14Z", "price"=>25000, "inCart"=>false, "updated_at"=>"2019-02-26T06:16:45Z", "url"=>"laptop.jpeg"}}
+  [4;35;1mItem Load (0.1ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mItem Update (0.3ms)[0m   [0mUPDATE "items" SET "inCart" = 'f', "updated_at" = '2019-02-26 06:17:14' WHERE "id" = 34[0m
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+Completed in 15ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:47:14) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:47:14) [GET]
+  [4;36;1mItem Load (0.5ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 13ms (View: 7, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:47:17) [OPTIONS]
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:47:17) [PUT]
+  Parameters: {"id"=>33, "$$hashKey"=>"object:119", "item"=>{"qty"=>2, "name"=>"Item1", "id"=>33, "created_at"=>"2019-01-30T06:52:49Z", "price"=>1000, "inCart"=>true, "updated_at"=>"2019-02-26T06:16:44Z", "url"=>"moto.jpeg"}}
+  [4;35;1mItem Load (0.1ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mItem Update (0.2ms)[0m   [0mUPDATE "items" SET "qty" = 2, "updated_at" = '2019-02-26 06:17:17' WHERE "id" = 33[0m
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 14ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:47:17) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:47:18) [OPTIONS]
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:47:18) [PUT]
+  Parameters: {"id"=>33, "$$hashKey"=>"object:132", "item"=>{"qty"=>3, "name"=>"Item1", "id"=>33, "created_at"=>"2019-01-30T06:52:49Z", "price"=>1000, "inCart"=>true, "updated_at"=>"2019-02-26T06:17:17Z", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.1ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mItem Update (0.2ms)[0m   [0;1mUPDATE "items" SET "qty" = 3, "updated_at" = '2019-02-26 06:17:18' WHERE "id" = 33[0m
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 15ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:47:18) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:47:50) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:47:51) [PUT]
+  Parameters: {"id"=>35, "$$hashKey"=>"object:128", "item"=>{"qty"=>1, "name"=>"Item3", "id"=>35, "created_at"=>"2019-01-30T06:53:37Z", "price"=>15000, "inCart"=>true, "updated_at"=>"2019-01-30T08:02:41Z", "url"=>"moto.jpeg"}}
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mItem Update (0.3ms)[0m   [0mUPDATE "items" SET "inCart" = 't', "updated_at" = '2019-02-26 06:17:51' WHERE "id" = 35[0m
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+Completed in 17ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:47:51) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:48:23) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:48:23) [PUT]
+  Parameters: {"id"=>33, "$$hashKey"=>"object:146", "item"=>{"qty"=>1, "name"=>"Item1", "id"=>33, "created_at"=>"2019-01-30T06:52:49Z", "price"=>1000, "inCart"=>false, "updated_at"=>"2019-02-26T06:17:18Z", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mItem Update (0.3ms)[0m   [0;1mUPDATE "items" SET "qty" = 1, "inCart" = 'f', "updated_at" = '2019-02-26 06:18:23' WHERE "id" = 33[0m
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 17ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:48:23) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:48:24) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:49:09) [OPTIONS]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:49:09) [PUT]
+  Parameters: {"id"=>35, "$$hashKey"=>"object:156", "item"=>{"qty"=>1, "name"=>"Item3", "id"=>35, "created_at"=>"2019-01-30T06:53:37Z", "price"=>15000, "inCart"=>false, "updated_at"=>"2019-02-26T06:17:51Z", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.1ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mItem Update (0.2ms)[0m   [0;1mUPDATE "items" SET "inCart" = 'f', "updated_at" = '2019-02-26 06:19:09' WHERE "id" = 35[0m
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+Completed in 53ms (View: 39, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:49:09) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:49:09) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:49:23) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:49:35) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:49:35) [PUT]
+  Parameters: {"id"=>33, "$$hashKey"=>"object:173", "item"=>{"qty"=>1, "name"=>"Item1", "id"=>33, "created_at"=>"2019-01-30T06:52:49Z", "price"=>1000, "inCart"=>true, "updated_at"=>"2019-02-26T06:18:23Z", "url"=>"moto.jpeg"}}
+  [4;35;1mItem Load (0.1ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mItem Update (0.2ms)[0m   [0mUPDATE "items" SET "inCart" = 't', "updated_at" = '2019-02-26 06:19:35' WHERE "id" = 33[0m
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 14ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:49:35) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:49:41) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:50:03) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:50:03) [PUT]
+  Parameters: {"id"=>33, "$$hashKey"=>"object:179", "item"=>{"qty"=>1, "name"=>"Item1", "id"=>33, "created_at"=>"2019-01-30T06:52:49Z", "price"=>1000, "inCart"=>false, "updated_at"=>"2019-02-26T06:19:35Z", "url"=>"moto.jpeg"}}
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mItem Update (0.2ms)[0m   [0mUPDATE "items" SET "inCart" = 'f', "updated_at" = '2019-02-26 06:20:03' WHERE "id" = 33[0m
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 15ms (View: 2, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:50:03) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:50:03) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:53:10) [GET]
+  [4;35;1mItem Load (0.7ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 3, DB: 1) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:53:10) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:53:29) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 12ms (View: 6, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:53:29) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 12ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:53:35) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:53:35) [PUT]
+  Parameters: {"id"=>33, "$$hashKey"=>"object:9", "item"=>{"qty"=>1, "name"=>"Item1", "id"=>33, "created_at"=>"2019-01-30T06:52:49Z", "price"=>1000, "inCart"=>true, "updated_at"=>"2019-02-26T06:20:03Z", "url"=>"moto.jpeg"}}
+  [4;35;1mItem Load (0.1ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mItem Update (0.2ms)[0m   [0mUPDATE "items" SET "inCart" = 't', "updated_at" = '2019-02-26 06:23:35' WHERE "id" = 33[0m
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 49ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:53:35) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:53:38) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:53:38) [PUT]
+  Parameters: {"id"=>33, "$$hashKey"=>"object:15", "item"=>{"qty"=>1, "name"=>"Item1", "id"=>33, "created_at"=>"2019-01-30T06:52:49Z", "price"=>1000, "inCart"=>false, "updated_at"=>"2019-02-26T06:23:35Z", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.1ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mItem Update (0.2ms)[0m   [0;1mUPDATE "items" SET "inCart" = 'f', "updated_at" = '2019-02-26 06:23:38' WHERE "id" = 33[0m
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 14ms (View: 2, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:53:38) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:53:38) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:54:03) [OPTIONS]
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:54:03) [PUT]
+  Parameters: {"id"=>33, "$$hashKey"=>"object:28", "item"=>{"qty"=>1, "name"=>"Item1", "id"=>33, "created_at"=>"2019-01-30T06:52:49Z", "price"=>1000, "inCart"=>true, "updated_at"=>"2019-02-26T06:23:38Z", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mItem Update (0.3ms)[0m   [0;1mUPDATE "items" SET "inCart" = 't', "updated_at" = '2019-02-26 06:24:03' WHERE "id" = 33[0m
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 19ms (View: 2, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:54:03) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:54:04) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:54:04) [PUT]
+  Parameters: {"id"=>33, "$$hashKey"=>"object:34", "item"=>{"qty"=>2, "name"=>"Item1", "id"=>33, "created_at"=>"2019-01-30T06:52:49Z", "price"=>1000, "inCart"=>true, "updated_at"=>"2019-02-26T06:24:03Z", "url"=>"moto.jpeg"}}
+  [4;35;1mItem Load (0.1ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mItem Update (0.2ms)[0m   [0mUPDATE "items" SET "qty" = 2, "updated_at" = '2019-02-26 06:24:04' WHERE "id" = 33[0m
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 15ms (View: 2, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:54:04) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:54:05) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:54:05) [PUT]
+  Parameters: {"id"=>33, "$$hashKey"=>"object:41", "item"=>{"qty"=>3, "name"=>"Item1", "id"=>33, "created_at"=>"2019-01-30T06:52:49Z", "price"=>1000, "inCart"=>true, "updated_at"=>"2019-02-26T06:24:04Z", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.1ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mItem Update (0.2ms)[0m   [0;1mUPDATE "items" SET "qty" = 3, "updated_at" = '2019-02-26 06:24:05' WHERE "id" = 33[0m
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 16ms (View: 2, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:54:05) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:54:31) [OPTIONS]
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:54:31) [PUT]
+  Parameters: {"id"=>34, "$$hashKey"=>"object:29", "item"=>{"qty"=>1, "name"=>"Item2", "id"=>34, "created_at"=>"2019-01-30T06:53:14Z", "price"=>25000, "inCart"=>true, "updated_at"=>"2019-02-26T06:17:14Z", "url"=>"laptop.jpeg"}}
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mItem Update (0.2ms)[0m   [0mUPDATE "items" SET "inCart" = 't', "updated_at" = '2019-02-26 06:24:31' WHERE "id" = 34[0m
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+Completed in 16ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:54:31) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:54:40) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:54:40) [PUT]
+  Parameters: {"id"=>34, "$$hashKey"=>"object:56", "item"=>{"qty"=>1, "name"=>"Item2", "id"=>34, "created_at"=>"2019-01-30T06:53:14Z", "price"=>25000, "inCart"=>false, "updated_at"=>"2019-02-26T06:24:31Z", "url"=>"laptop.jpeg"}}
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mItem Update (0.2ms)[0m   [0;1mUPDATE "items" SET "inCart" = 'f', "updated_at" = '2019-02-26 06:24:40' WHERE "id" = 34[0m
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+Completed in 15ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:54:40) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:54:40) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:54:41) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:54:41) [PUT]
+  Parameters: {"id"=>35, "$$hashKey"=>"object:72", "item"=>{"qty"=>1, "name"=>"Item3", "id"=>35, "created_at"=>"2019-01-30T06:53:37Z", "price"=>15000, "inCart"=>true, "updated_at"=>"2019-02-26T06:19:09Z", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mItem Update (0.3ms)[0m   [0;1mUPDATE "items" SET "inCart" = 't', "updated_at" = '2019-02-26 06:24:41' WHERE "id" = 35[0m
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+Completed in 16ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:54:41) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:55:14) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:55:14) [PUT]
+  Parameters: {"id"=>33, "$$hashKey"=>"object:76", "item"=>{"qty"=>1, "name"=>"Item1", "id"=>33, "created_at"=>"2019-01-30T06:52:49Z", "price"=>1000, "inCart"=>false, "updated_at"=>"2019-02-26T06:24:05Z", "url"=>"moto.jpeg"}}
+  [4;35;1mItem Load (0.1ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mItem Update (0.2ms)[0m   [0mUPDATE "items" SET "qty" = 1, "inCart" = 'f', "updated_at" = '2019-02-26 06:25:14' WHERE "id" = 33[0m
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 15ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:55:14) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:55:14) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:55:18) [OPTIONS]
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:55:18) [PUT]
+  Parameters: {"id"=>33, "$$hashKey"=>"object:91", "item"=>{"qty"=>1, "name"=>"Item1", "id"=>33, "created_at"=>"2019-01-30T06:52:49Z", "price"=>1000, "inCart"=>true, "updated_at"=>"2019-02-26T06:25:14Z", "url"=>"moto.jpeg"}}
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mItem Update (0.2ms)[0m   [0mUPDATE "items" SET "inCart" = 't', "updated_at" = '2019-02-26 06:25:18' WHERE "id" = 33[0m
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 17ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:55:18) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:55:21) [OPTIONS]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:55:21) [PUT]
+  Parameters: {"id"=>33, "$$hashKey"=>"object:97", "item"=>{"qty"=>2, "name"=>"Item1", "id"=>33, "created_at"=>"2019-01-30T06:52:49Z", "price"=>1000, "inCart"=>true, "updated_at"=>"2019-02-26T06:25:18Z", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.1ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mItem Update (0.2ms)[0m   [0;1mUPDATE "items" SET "qty" = 2, "updated_at" = '2019-02-26 06:25:21' WHERE "id" = 33[0m
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 19ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:55:21) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:55:22) [OPTIONS]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:55:22) [PUT]
+  Parameters: {"id"=>33, "$$hashKey"=>"object:105", "item"=>{"qty"=>3, "name"=>"Item1", "id"=>33, "created_at"=>"2019-01-30T06:52:49Z", "price"=>1000, "inCart"=>true, "updated_at"=>"2019-02-26T06:25:21Z", "url"=>"moto.jpeg"}}
+  [4;35;1mItem Load (0.1ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mItem Update (0.2ms)[0m   [0mUPDATE "items" SET "qty" = 3, "updated_at" = '2019-02-26 06:25:22' WHERE "id" = 33[0m
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 15ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:55:22) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:55:33) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-26 11:55:33) [PUT]
+  Parameters: {"id"=>33, "$$hashKey"=>"object:113", "item"=>{"qty"=>1, "name"=>"Item1", "id"=>33, "created_at"=>"2019-01-30T06:52:49Z", "price"=>1000, "inCart"=>false, "updated_at"=>"2019-02-26T06:25:22Z", "url"=>"moto.jpeg"}}
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mItem Update (0.2ms)[0m   [0;1mUPDATE "items" SET "qty" = 1, "inCart" = 'f', "updated_at" = '2019-02-26 06:25:33' WHERE "id" = 33[0m
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 15ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:55:33) [GET]
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:55:33) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-26 11:55:44) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 40ms (View: 9, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-27 11:17:59) [GET]
+  [4;36;1mItem Load (2.1ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 27ms (View: 21, DB: 2) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-27 11:17:59) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-27 11:18:07) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-27 11:18:07) [PUT]
+  Parameters: {"$$hashKey"=>"object:11", "item"=>{"url"=>"moto.jpeg", "created_at"=>"2019-01-30T06:53:37Z", "qty"=>1, "updated_at"=>"2019-02-26T06:24:41Z", "id"=>35, "name"=>"Item3", "price"=>15000, "inCart"=>false}, "id"=>35}
+  [4;36;1mItem Load (0.1ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mItem Update (0.4ms)[0m   [0;1mUPDATE "items" SET "updated_at" = '2019-02-27 05:48:07', "inCart" = 'f' WHERE "id" = 35[0m
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+Completed in 16ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-27 11:18:07) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-27 11:18:07) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-27 11:18:08) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-27 11:18:08) [PUT]
+  Parameters: {"$$hashKey"=>"object:22", "item"=>{"url"=>"moto.jpeg", "created_at"=>"2019-01-30T06:52:49Z", "qty"=>1, "updated_at"=>"2019-02-26T06:25:33Z", "id"=>33, "name"=>"Item1", "price"=>1000, "inCart"=>true}, "id"=>33}
+  [4;36;1mItem Load (0.1ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mItem Update (0.2ms)[0m   [0;1mUPDATE "items" SET "updated_at" = '2019-02-27 05:48:08', "inCart" = 't' WHERE "id" = 33[0m
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 70ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-27 11:18:08) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 8ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-27 11:18:09) [OPTIONS]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-27 11:18:09) [PUT]
+  Parameters: {"$$hashKey"=>"object:23", "item"=>{"url"=>"laptop.jpeg", "created_at"=>"2019-01-30T06:53:14Z", "qty"=>1, "updated_at"=>"2019-02-26T06:24:40Z", "id"=>34, "name"=>"Item2", "price"=>25000, "inCart"=>true}, "id"=>34}
+  [4;35;1mItem Load (0.1ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mItem Update (0.2ms)[0m   [0mUPDATE "items" SET "updated_at" = '2019-02-27 05:48:09', "inCart" = 't' WHERE "id" = 34[0m
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+Completed in 16ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-27 11:18:09) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-27 11:18:10) [OPTIONS]
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-27 11:18:10) [PUT]
+  Parameters: {"$$hashKey"=>"object:24", "item"=>{"url"=>"moto.jpeg", "created_at"=>"2019-01-30T06:53:37Z", "qty"=>1, "updated_at"=>"2019-02-27T05:48:07Z", "id"=>35, "name"=>"Item3", "price"=>15000, "inCart"=>true}, "id"=>35}
+  [4;36;1mItem Load (0.1ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mItem Update (0.2ms)[0m   [0;1mUPDATE "items" SET "updated_at" = '2019-02-27 05:48:10', "inCart" = 't' WHERE "id" = 35[0m
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+Completed in 58ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-27 11:18:10) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-27 11:18:12) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-27 11:18:13) [PUT]
+  Parameters: {"$$hashKey"=>"object:43", "item"=>{"url"=>"moto.jpeg", "created_at"=>"2019-01-30T06:52:49Z", "qty"=>2, "updated_at"=>"2019-02-27T05:48:08Z", "id"=>33, "name"=>"Item1", "price"=>1000, "inCart"=>true}, "id"=>33}
+  [4;35;1mItem Load (0.1ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mItem Update (0.2ms)[0m   [0mUPDATE "items" SET "updated_at" = '2019-02-27 05:48:13', "qty" = 2 WHERE "id" = 33[0m
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 16ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-27 11:18:13) [GET]
+  [4;35;1mItem Load (0.6ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 1) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-27 11:18:14) [OPTIONS]
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-27 11:18:14) [PUT]
+  Parameters: {"$$hashKey"=>"object:52", "item"=>{"url"=>"moto.jpeg", "created_at"=>"2019-01-30T06:52:49Z", "qty"=>3, "updated_at"=>"2019-02-27T05:48:13Z", "id"=>33, "name"=>"Item1", "price"=>1000, "inCart"=>true}, "id"=>33}
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mItem Update (0.2ms)[0m   [0;1mUPDATE "items" SET "updated_at" = '2019-02-27 05:48:14', "qty" = 3 WHERE "id" = 33[0m
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 14ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-27 11:18:14) [GET]
+  [4;36;1mItem Load (0.9ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 1) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-27 11:18:15) [OPTIONS]
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-27 11:18:15) [PUT]
+  Parameters: {"$$hashKey"=>"object:63", "item"=>{"url"=>"moto.jpeg", "created_at"=>"2019-01-30T06:53:37Z", "qty"=>0, "updated_at"=>"2019-02-27T05:48:10Z", "id"=>35, "name"=>"Item3", "price"=>15000, "inCart"=>true}, "id"=>35}
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mItem Update (0.2ms)[0m   [0mUPDATE "items" SET "updated_at" = '2019-02-27 05:48:15', "qty" = 0 WHERE "id" = 35[0m
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+Completed in 16ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-27 11:18:15) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 6ms (View: 3, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-27 11:18:16) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-27 11:18:16) [PUT]
+  Parameters: {"$$hashKey"=>"object:72", "item"=>{"url"=>"moto.jpeg", "created_at"=>"2019-01-30T06:53:37Z", "qty"=>1, "updated_at"=>"2019-02-27T05:48:15Z", "id"=>35, "name"=>"Item3", "price"=>15000, "inCart"=>true}, "id"=>35}
+  [4;36;1mItem Load (0.1ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+  [4;35;1mCACHE (0.0ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;36;1mItem Update (0.3ms)[0m   [0;1mUPDATE "items" SET "updated_at" = '2019-02-27 05:48:16', "qty" = 1 WHERE "id" = 35[0m
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+Completed in 18ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-27 11:18:16) [GET]
+  [4;36;1mItem Load (0.5ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-27 11:18:17) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-27 11:18:17) [PUT]
+  Parameters: {"$$hashKey"=>"object:81", "item"=>{"url"=>"moto.jpeg", "created_at"=>"2019-01-30T06:53:37Z", "qty"=>1, "updated_at"=>"2019-02-27T05:48:16Z", "id"=>35, "name"=>"Item3", "price"=>15000, "inCart"=>false}, "id"=>35}
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mItem Update (0.2ms)[0m   [0mUPDATE "items" SET "updated_at" = '2019-02-27 05:48:17', "inCart" = 'f' WHERE "id" = 35[0m
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 35) [0m
+Completed in 16ms (View: 1, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-27 11:18:17) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-27 11:18:17) [GET]
+  [4;36;1mItem Load (40.7ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 54ms (View: 4, DB: 41) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-27 11:18:18) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-27 11:18:18) [PUT]
+  Parameters: {"$$hashKey"=>"object:89", "item"=>{"url"=>"laptop.jpeg", "created_at"=>"2019-01-30T06:53:14Z", "qty"=>1, "updated_at"=>"2019-02-27T05:48:09Z", "id"=>34, "name"=>"Item2", "price"=>25000, "inCart"=>false}, "id"=>34}
+  [4;35;1mItem Load (0.2ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mItem Update (0.2ms)[0m   [0mUPDATE "items" SET "updated_at" = '2019-02-27 05:48:18', "inCart" = 'f' WHERE "id" = 34[0m
+  [4;36;1mItem Load (0.3ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 34) [0m
+Completed in 16ms (View: 2, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-27 11:18:18) [GET]
+  [4;35;1mItem Load (0.4ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-27 11:18:18) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 9ms (View: 4, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-27 11:18:19) [OPTIONS]
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#put (for 127.0.0.1 at 2019-02-27 11:18:19) [PUT]
+  Parameters: {"$$hashKey"=>"object:102", "item"=>{"url"=>"moto.jpeg", "created_at"=>"2019-01-30T06:52:49Z", "qty"=>1, "updated_at"=>"2019-02-27T05:48:14Z", "id"=>33, "name"=>"Item1", "price"=>1000, "inCart"=>false}, "id"=>33}
+  [4;35;1mItem Load (0.1ms)[0m   [0mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+  [4;36;1mCACHE (0.0ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+WARNING: Can't mass-assign these protected attributes: id
+  [4;35;1mItem Update (0.2ms)[0m   [0mUPDATE "items" SET "updated_at" = '2019-02-27 05:48:19', "inCart" = 'f', "qty" = 1 WHERE "id" = 33[0m
+  [4;36;1mItem Load (0.2ms)[0m   [0;1mSELECT * FROM "items" WHERE ("items"."id" = 33) [0m
+Completed in 15ms (View: 2, DB: 1) | 200 OK [http://localhost/putdata]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-27 11:18:19) [GET]
+  [4;35;1mItem Load (0.3ms)[0m   [0mSELECT * FROM "items" [0m
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://localhost/items]
+
+
+Processing ItemsController#index (for 127.0.0.1 at 2019-02-27 11:18:19) [GET]
+  [4;36;1mItem Load (0.4ms)[0m   [0;1mSELECT * FROM "items" [0m
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://localhost/items]

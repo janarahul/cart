@@ -6,9 +6,7 @@ class ItemsController < ApplicationController
 		else
 			render :json => @items
 
-		end
-
-		
+		end	
 	end
 	def show 
 		
